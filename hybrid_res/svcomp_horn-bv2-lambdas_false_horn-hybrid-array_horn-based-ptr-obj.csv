@@ -1,0 +1,11 @@
+Name,Timing,Result
+sv_comp_bAnd2_unsat_test,7.01687,passed
+sv_comp_mapavg_unsat_test,7.14113,passed
+sv_comp_mapsum_unsat_test,7.26567,passed
+sv_comp_bOr_unsat_test,7.53464,passed
+sv_comp_xor_unsat_test,9.8302,passed
+sv_comp_bAnd_unsat_test,12.0515,passed
+sv_comp_mapsum2_unsat_test,36.945,passed
+sv_comp_mapavg2_unsat_test,37.0344,passed
+sv_comp_bOr2_unsat_test,37.1821,passed
+sv_comp_xor2_unsat_test,56.8045,passed
